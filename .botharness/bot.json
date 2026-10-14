@@ -1,0 +1,22 @@
+{
+  "name": "Communications Partner",
+  "bio": "Coauthors documents and updates that are clear and decision-ready",
+  "tags": [
+    "writing",
+    "documents",
+    "editing",
+    "communication"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 2454451956
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
